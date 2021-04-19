@@ -1,0 +1,33 @@
+package assignment3_ArithmeticOperators;
+
+public class Question4 {
+
+	public static void main(String[] args) {
+		
+		int num1=1;
+		int num2=2;
+		int emptybucket;
+		
+		
+		emptybucket=num1;
+		num1=num2;
+		num2=emptybucket;
+		
+	
+		System.out.println("num1 is "+num1+" num2 is "+num2);
+
+//		num1=num1+num2;
+//		num2=num1-num2;
+//		num1=num1-num2;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
