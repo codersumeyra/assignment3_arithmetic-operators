@@ -1,0 +1,18 @@
+package assignment3_ArithmeticOperators;
+
+public class Question2 {
+
+	public static void main(String[] args) {
+		
+		String name="sumeyra";
+		
+		int birthYear=1991;
+		
+		int age=2021-birthYear;
+		
+		System.out.println("hello"+name+"!"+"based on your input,your age is "+age);
+		
+
+	}
+
+}
